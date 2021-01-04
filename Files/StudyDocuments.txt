@@ -1,0 +1,12 @@
+macos
+1.Mac OS X Internals: A Systems Approach --->Mac OS X 技术内幕
+http://product.dangdang.com/26491386.html
+
+2.Mac OS X and iOS Internals: To the Apple's Core----->深入解析Mac OS X iOS操作系统
+http://product.dangdang.com/1731771818.html
+
+3.*OS Internals系列
+http://newosxbook.com/index.php
+1）*OS Internals, Volume I: User Mode 
+2）*OS Internals, Volume II: Kernel Mode
+3）*OS Internals, Volume III: Security & Insecurity
